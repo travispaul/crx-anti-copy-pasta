@@ -1,0 +1,11 @@
+{
+    "name": {
+        "message": "anti-copy-pasta",
+        "description" : "Name of extension"
+    },
+
+    "description": {
+        "message": "Disables text selection on stackoverflow.com",
+        "description" : "Description of extension"
+    }
+}
